@@ -35,10 +35,10 @@ const Navbar = () => {
 
             <div className="md:flex md:flex-row md:items-center md:justify-between hidden">
               <h1 className="mx-2 text-2xl lg:mx-4 cursor-pointer hover:scale-105 hover:shadow-sm">
-                <Link to={"/"}>Home</Link>
+                Home
               </h1>
               <h1 className="mx-2 text-2xl lg:mx-4 cursor-pointer hover:scale-105 hover:shadow-sm">
-                <Link to={"/New"}>New</Link>
+                New
               </h1>
               <h1 className="mx-2 text-2xl lg:mx-4 cursor-pointer hover:scale-105 hover:shadow-sm">
                 Popular
